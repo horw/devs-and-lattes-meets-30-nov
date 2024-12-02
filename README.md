@@ -1,5 +1,9 @@
 This repository shares information related to the **Devs&Lattes workshop** (2024.11.30) in Shanghai.
 
+## Photos
+  ![alt text](./img/together.png)
+  ![alt text](./img/b1.png)
+
 ## How to Install Arduino for ESP32-C3
 
 1. Go to the [Arduino website](https://www.arduino.cc/en/software) and navigate to the **Software** section.  

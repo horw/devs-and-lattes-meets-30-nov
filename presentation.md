@@ -145,34 +145,22 @@ layout: center
 # Let's meet
 
 ---
-layout: default
+layout: two-cols
 ---
 
-
-<div style="display: flex; justify-content: space-between; text-align: center; margin-top:50px">
-
-  <div style="flex: 1; margin: 10px;">    
 
 # Igor Udot 吴一格
 <p>Software developer in Espressif</p>
 <img src="./img/igor-avatar.png" width="250px" alt="Igor Udot's avatar"/>
-  </div>
 
-<div style="flex: 1; margin: 10px;">
+
+::right::
 
 # Kainarx 陈纪昌
 <p>Software developer in Espressif</p>
 <img src="./img/chen-avatar.jpg" width="250px" alt="Kainarx's avatar"/>
-  </div>
 
-  <div style="flex: 1; margin: 10px;">
 
-# Wan Lei 万磊
-<p>Software developer in Espressif</p>
-<img src="./img/wan-avatar.jpg" width="250px" alt="Wang Lei's avatar"/>
-  </div>
-
-</div>
 
 
 ---
